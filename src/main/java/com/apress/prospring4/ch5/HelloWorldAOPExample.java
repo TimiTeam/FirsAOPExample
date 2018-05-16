@@ -1,7 +1,7 @@
 package com.apress.prospring4.ch5;
 
 
-import com.apress.prospring4.ch5.classes.MessageDecorator;
+import com.apress.prospring4.ch5.Advices.MessageDecorator;
 import com.apress.prospring4.ch5.classes.MessageWriter;
 import org.springframework.aop.framework.ProxyFactory;
 

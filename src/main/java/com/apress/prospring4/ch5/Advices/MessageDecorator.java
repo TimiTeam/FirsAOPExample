@@ -1,4 +1,4 @@
-package com.apress.prospring4.ch5.classes;
+package com.apress.prospring4.ch5.Advices;
 
 
 import org.aopalliance.intercept.MethodInterceptor;
